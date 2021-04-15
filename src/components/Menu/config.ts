@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.vikingswap.finance/'
+    href: 'https://localhost:3000/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.vikingswap.finance/farms'
+    href: 'https://localhost:3000/farms'
   },
   {
     label: 'Armory',
     icon: 'PoolIcon',
-    href: 'https://www.vikingswap.finance/nests'
+    href: 'https://localhost:3000/nests'
   },
   {
     label: 'Info',
@@ -41,11 +41,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/viking-swap/',
+        href: 'https://coinmarketcap.com/currencies/paper-moniez/',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/viking-swap',
+        href: 'https://www.coingecko.com/en/coins/paper-moniez',
       },
     ]
   },
